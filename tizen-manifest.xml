@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3.2"
+	package="com.sihao-c.flashcardtogo" version="1.0.0">
+	<profile name="wearable" />
+	<ui-application appid="com.sihao-c.flashcardtogo" exec="flashcardtogo"
+		type="capp" multiple="false" taskmanage="true" nodisplay="false">
+		<icon>flashcardtogo.png</icon>
+		<label>flashcardtogo</label>
+	</ui-application>
+</manifest>
