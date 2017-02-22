@@ -43,12 +43,14 @@ void view2_button2_onclicked_post(void* param, uib_view2_view_context *vc, Evas_
  *
  */
 
-void view2_button1_onclicked(uib_view2_view_context *vc, Evas_Object *obj, void *event_info) {
+void view2_button1_onclicked(uib_view2_view_context *vc, Evas_Object *obj, void *event_info) {	//Invoked at the start of wrapper function view2_connection_view2_button1_onclicked
+
 	//Invoked at the start of wrapper function view2_connection_view2_button1_onclicked
 
 }
 
-void view2_button1_onclicked_post(void* param, uib_view2_view_context *vc, Evas_Object *obj, void *event_info) {
+void view2_button1_onclicked_post(void* param, uib_view2_view_context *vc, Evas_Object *obj, void *event_info) {	//Invoked post wrapper function view2_connection_view2_button1_onclicked
+
 	//Invoked post wrapper function view2_connection_view2_button1_onclicked
 
 }
